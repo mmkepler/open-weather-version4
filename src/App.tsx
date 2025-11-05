@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <Header/>
-      <div className="flex-auto w-full">
-      </div>
+      <main id="main">
+      </main>
       <Footer/>
     </>
   )
