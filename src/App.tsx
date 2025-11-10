@@ -1,12 +1,12 @@
 import Footer from './components/footer'
 import Header from './components/header'
-import './App.css'
+import './css/App.css'
 
 function App() {
   return (
     <>
       <Header/>
-      <main id="main">
+      <main id="home">
       </main>
       <Footer/>
     </>
